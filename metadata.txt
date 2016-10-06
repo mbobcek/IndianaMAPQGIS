@@ -1,0 +1,40 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=IndianaMap
+qgisMinimumVersion=2.0
+description=Provides access to approximately 300 vector layers and 30 TB imagery, LiDAR, and Elevation data
+version=0.1
+author=Justin P. Peters
+email=jppeters@iu.edu
+
+about=Provides access to approximately 300 vector layers and 30 TB imagery, LiDAR, and Elevation data
+
+tracker=https://github.com/gisjustin/IndianaMapQGIS
+repository=https://github.com/gisjustin/IndianaMapQGIS
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=Indiana, Open, Data, IndianaMap, LiDAR, WMS
+
+
+homepage=https://github.com/gisjustin/IndianaMapQGIS
+category=Web
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

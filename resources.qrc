@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/plugins/IndianaMap">
+    <file>DownloadButton.png</file>
+    <file>addContent.png</file>
+    <file>IGSLogo.png</file>
+    <file>Logo.png</file>
+    <file>isdp2.jpg</file>
+  </qresource>
+</RCC>
